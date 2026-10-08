@@ -1,0 +1,27 @@
+# Dependencies & build output
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Legacy PHP runtime data (contains customer leads)
+storage/leads/*.json
+storage/rate-limit/*.json
+
+# Logs & local tooling
+*.log
+npm-debug.log*
+.tmp-test/
+.vite/
+.eslintcache
+coverage/
+
+# Editors & OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
