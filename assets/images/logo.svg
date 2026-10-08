@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Inryth">
+  <rect width="64" height="64" rx="16" fill="#0B1220"/>
+  <path d="M18 42c8-18 20-18 28 0" fill="none" stroke="#1E56D9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M16 30c10-14 22-14 32 0" fill="none" stroke="#FF6A1A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="46" cy="20" r="4" fill="#FF8C42"/>
+</svg>
