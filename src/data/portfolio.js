@@ -1,0 +1,217 @@
+export default [
+    {
+        "slug": "shopify-catalogue-whatsapp",
+        "name": "Northline Shopify Store",
+        "industry": "E-commerce",
+        "category": "websites",
+        "filters": ["websites", "marketing"],
+        "services": ["Shopify", "Graphic Design", "WhatsApp"],
+        "result": "A Shopify catalogue with campaign graphics and WhatsApp for order questions — ads no longer dumped on a generic homepage.",
+        "image": "images/photos/pf-shopify.jpg",
+        "url": "/portfolio/shopify-catalogue-whatsapp",
+        "excerpt": "Shopify storefront with product collections, recovery-ready checkout and WhatsApp as the support channel.",
+        "challenge": "The brand was running Meta ads to Instagram DMs. Product photos, prices and stock lived in three different places.",
+        "approach": "We rebuilt collections on Shopify, designed a consistent creative system for ads and social, and connected WhatsApp for size, shipping and order status questions.",
+        "outcome": "Customers can browse, add to cart and continue on WhatsApp without losing the product context. The team answers from one thread instead of scattered DMs.",
+        "whatsapp_message": "Hi, I need a Shopify store with WhatsApp like the Northline example in your portfolio."
+    },
+    {
+        "slug": "wordpress-multilingual-service",
+        "name": "Advika Consulting Bilingual WordPress",
+        "industry": "Professional Services",
+        "category": "websites",
+        "filters": ["websites", "marketing"],
+        "services": ["WordPress", "Multilingual", "WhatsApp"],
+        "result": "A bilingual WordPress site with form-to-WhatsApp greeting so every enquiry gets an instant first reply.",
+        "image": "images/photos/pf-wordpress.jpg",
+        "url": "/portfolio/wordpress-multilingual-service",
+        "excerpt": "WordPress service website in English and Hindi with WP-Forms connected to WhatsApp.",
+        "challenge": "The firm needed a credible site in more than one language. Contact Form 7 emails sat unread while clients messaged on WhatsApp anyway.",
+        "approach": "We structured service pages in two languages, redesigned the UI, and routed form submits into a WhatsApp welcome with the enquiry details attached.",
+        "outcome": "Partners can share one link after meetings. New leads arrive as organised chats, not a pile of form emails.",
+        "whatsapp_message": "Hi, I want a multilingual WordPress site with WhatsApp like the Advika Consulting example."
+    },
+    {
+        "slug": "real-estate-enquiry-website",
+        "name": "Urvan Developers Project Website",
+        "industry": "Real Estate",
+        "category": "websites",
+        "filters": [
+            "websites",
+            "real-estate",
+            "landing-pages"
+        ],
+        "services": [
+            "Website Design",
+            "Lead Capture",
+            "WhatsApp"
+        ],
+        "result": "A property enquiry site structured around projects, site visits and WhatsApp conversations instead of a brochure homepage.",
+        "image": "images/photos/pf-realestate.jpg",
+        "url": "/portfolio/real-estate-enquiry-website",
+        "excerpt": "Project-led website with enquiry forms, site-visit intent and WhatsApp as the primary conversation channel.",
+        "challenge": "The business had project information spread across PDFs, Instagram and an outdated website. Interested buyers had no simple way to ask about a specific property.",
+        "approach": "We organised projects as the main journey, added clear enquiry paths per listing, and connected forms to WhatsApp so the sales team could continue the conversation quickly.",
+        "outcome": "The website became a working enquiry channel. Sales received more complete messages (project interest, timeline, contact) instead of vague DMs.",
+        "whatsapp_message": "Hi, I saw the real estate enquiry website in your portfolio and want something similar."
+    },
+    {
+        "slug": "clinic-appointment-website",
+        "name": "Care Wellness Clinic Website",
+        "industry": "Healthcare",
+        "category": "websites",
+        "filters": [
+            "websites",
+            "healthcare"
+        ],
+        "services": [
+            "Website Design",
+            "SEO Foundations",
+            "WhatsApp"
+        ],
+        "result": "A calm, trustworthy clinic site that makes services, doctors and appointment requests easy to find on mobile.",
+        "image": "images/photos/pf-clinic.jpg",
+        "url": "/portfolio/clinic-appointment-website",
+        "excerpt": "Healthcare website focused on clarity, trust and appointment requests rather than stock-photo clutter.",
+        "challenge": "Patients could not quickly understand treatments or how to book. The previous site was slow on mobile and hid contact actions.",
+        "approach": "We simplified services, added doctor and FAQ sections, and placed call/WhatsApp/appointment actions where anxious users actually look.",
+        "outcome": "The clinic could share one link that answers common questions and collects appointment intent without forcing people through a call-only process.",
+        "whatsapp_message": "Hi, I need a healthcare / clinic website similar to your portfolio example."
+    },
+    {
+        "slug": "education-admissions-landing",
+        "name": "Surya Institute Admissions Page",
+        "industry": "Education",
+        "category": "landing-pages",
+        "filters": [
+            "landing-pages",
+            "education",
+            "marketing"
+        ],
+        "services": [
+            "Landing Page",
+            "Meta Ads Support",
+            "Lead Form"
+        ],
+        "result": "A campaign page built for one intake offer, with a short form and counsellor WhatsApp path.",
+        "image": "images/photos/pf-education.jpg",
+        "url": "/portfolio/education-admissions-landing",
+        "excerpt": "Admissions landing page with a single offer, proof points and a short counsellor callback form.",
+        "challenge": "Ad traffic was sent to a large website. Parents bounced before finding the current intake details.",
+        "approach": "We isolated the offer on a landing page: who it is for, what is included, dates, FAQs and one form. WhatsApp was offered as a second path.",
+        "outcome": "Counsellors received more complete enquiries tied to a specific intake, which made follow-up conversations shorter and clearer.",
+        "whatsapp_message": "Hi, I want an admissions / education landing page like the one in your portfolio."
+    },
+    {
+        "slug": "local-service-seo-pages",
+        "name": "CleanShield Local SEO Pages",
+        "industry": "Local Businesses",
+        "category": "marketing",
+        "filters": [
+            "marketing",
+            "websites"
+        ],
+        "services": [
+            "SEO",
+            "Website Design"
+        ],
+        "result": "Service pages written around how local customers search, with clear calls to call or WhatsApp.",
+        "image": "images/photos/pf-localseo.jpg",
+        "url": "/portfolio/local-service-seo-pages",
+        "excerpt": "On-page SEO and service structure for a local business that needed more than a one-page site.",
+        "challenge": "The business ranked poorly because one thin homepage tried to cover every service.",
+        "approach": "We created dedicated service pages, improved titles and internal links, and added local trust elements without stuffing city names.",
+        "outcome": "Each service now has a page that can rank, be advertised, and convert. The site is easier for both customers and search engines to understand.",
+        "whatsapp_message": "Hi, I need SEO-focused service pages for my local business."
+    },
+    {
+        "slug": "whatsapp-lead-flow",
+        "name": "WhatsApp Lead Flow",
+        "industry": "Professional Services",
+        "category": "automation",
+        "filters": [
+            "automation",
+            "marketing"
+        ],
+        "services": [
+            "WhatsApp Automation",
+            "Lead Management"
+        ],
+        "result": "An after-hours welcome and qualification flow so new enquiries are not left unread until morning.",
+        "image": "images/photos/pf-whatsapp.jpg",
+        "url": "/portfolio/whatsapp-lead-flow",
+        "excerpt": "WhatsApp welcome, qualification and routing for a service business with uneven enquiry hours.",
+        "challenge": "Leads from ads arrived at night and on weekends. By the time someone replied, the person had already messaged a competitor.",
+        "approach": "We built a short qualification flow, delivered a brochure, and labelled chats so the right person could continue the next morning.",
+        "outcome": "Every new chat received an immediate, useful reply. The team started the day with organised conversations instead of a pile of “hello” messages.",
+        "whatsapp_message": "Hi, I want a WhatsApp lead flow similar to your portfolio example."
+    },
+    {
+        "slug": "brand-and-ad-creative-system",
+        "name": "Campaign Graphics System",
+        "industry": "Personal Brands",
+        "category": "branding",
+        "filters": [
+            "branding",
+            "marketing"
+        ],
+        "services": [
+            "Graphic Design",
+            "Meta Ads",
+            "Landing Page"
+        ],
+        "result": "A consistent visual system for ads, social and a campaign page so the brand felt like one business.",
+        "image": "images/photos/pf-graphics.jpg",
+        "url": "/portfolio/brand-and-ad-creative-system",
+        "excerpt": "Creative system that aligned social posts, ads and landing visuals for a consultant brand.",
+        "challenge": "The founder’s ads, Instagram and website looked like three different businesses. Trust dropped before the offer was read.",
+        "approach": "We defined a simple visual language and produced ad/social sets plus landing visuals that repeated the same promise.",
+        "outcome": "Campaigns became easier to produce and the brand felt consistent from the first ad to the enquiry form.",
+        "whatsapp_message": "Hi, I need a brand and ad creative system for my campaigns."
+    },
+    {
+        "slug": "hospitality-booking-website",
+        "name": "Raj Niwas Homestay Website",
+        "industry": "Hospitality",
+        "category": "websites",
+        "filters": [
+            "websites",
+            "hospitality"
+        ],
+        "services": [
+            "Website Design",
+            "WhatsApp"
+        ],
+        "result": "A stay-focused website with rooms, offers and a WhatsApp booking enquiry path for guests who prefer chat.",
+        "image": "images/photos/pf-hospitality.jpg",
+        "url": "/portfolio/hospitality-booking-website",
+        "excerpt": "Hospitality website organised around rooms, stay intent and conversation-based booking support.",
+        "challenge": "Guests landed on slow photo galleries and could not see availability paths or ask a simple question.",
+        "approach": "We led with rooms and stay reasons, compressed media, and added WhatsApp for date and package questions.",
+        "outcome": "The property could share a site that answers the first guest questions and starts a booking conversation without friction.",
+        "whatsapp_message": "Hi, I need a hospitality website with WhatsApp booking enquiries."
+    },
+    {
+        "slug": "startup-growth-site",
+        "name": "Northbeam SaaS Launch Website",
+        "industry": "Startups",
+        "category": "websites",
+        "filters": [
+            "websites",
+            "marketing"
+        ],
+        "services": [
+            "Website Design",
+            "SEO",
+            "Analytics"
+        ],
+        "result": "A launch website with a clear product story, waitlist/demo path and analytics events from day one.",
+        "image": "images/photos/pf-startup.jpg",
+        "url": "/portfolio/startup-growth-site",
+        "excerpt": "Startup website focused on problem, product, proof and a single conversion action.",
+        "challenge": "The team had a product and no public narrative. Early conversations were happening only through personal networks.",
+        "approach": "We wrote a direct homepage, added a demo/waitlist path, and instrumented events so the founders could see what visitors did.",
+        "outcome": "The startup had a credible link for investors, partners and ads tests, with a measurement base to improve from.",
+        "whatsapp_message": "Hi, I need a startup website focused on demos and lead capture."
+    }
+];
