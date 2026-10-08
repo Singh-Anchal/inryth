@@ -1,0 +1,13 @@
+@import './styles/site.css';
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  display: block;
+  place-items: unset;
+  min-width: 0;
+}
