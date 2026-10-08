@@ -76,8 +76,6 @@ public/
 scripts/sitemap.js       # Builds sitemap.xml + robots.txt from data
 ```
 
-Legacy PHP version of the site (`*.php`, `includes/`, `api/`, `storage/`) is kept for reference and is not part of the React build.
-
 ## Editing content
 
 Most changes need **no component code** — edit the data files:

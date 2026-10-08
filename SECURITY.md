@@ -18,4 +18,3 @@ We aim to respond within 72 hours.
 - CI runs `npm audit` (high severity, production deps) and a basic secret scan on every push and PR.
 - Dependabot opens weekly dependency update PRs.
 - `main` is protected: PR review + passing checks required.
-- Legacy PHP lead storage (`storage/leads/*.json`) is git-ignored and must never be committed.
